@@ -37,3 +37,5 @@ next-env.d.ts
 src/sway-api
 sway-contracts/out
 .turbo
+
+sway-programs/**/out/*
